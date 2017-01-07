@@ -1,0 +1,110 @@
+.fullcontainer {
+  height: 100%;
+  width:100%;
+  color: white;
+}
+div {
+    height: 150px;
+    width: 200px;
+    display: inline-block;
+  margin: 0px;
+  color: white;
+    /*Add your CSS here!*/
+}
+.topboxsection {
+  width: 30%;
+}
+
+#topredbox {
+    background-color: #d0021b;
+    margin: 15px;
+}
+
+#topskybluebox {
+    background-color: #4a90e2;
+    margin: 15px;
+}
+
+#topgraybox {
+    background-color: #4a4a4a;
+    margin: 15px;
+}
+.textbody {
+  width: 95%;
+}
+
+#contentboxformat {
+  height: 100px;
+  width: 100%;
+  color: black;
+  margin-left: 5px;
+}
+
+.parent {
+  height: 500 px;
+  width: 100%;
+  background-color: white;
+  display: inline-block;
+  position:relative;
+  margin: 0;
+}
+
+#middlebluebox {
+  height: 275px;
+    width:95%;
+  margin-bottom: 20px;
+  margin-left: 15px;
+  background-color: #4a90e2;
+}
+
+.middleredbox {
+height: 275px;
+width: 200px;
+margin: 0;
+}
+
+.box4 {
+  width: 250px;
+  height: 275px;
+  background-color: #d0021b;
+}
+
+.parent2 {
+  height: 500 px;
+  width: 100%;
+  background-color: white;
+  display: inline-block;
+  position:relative;
+  margin: 0;
+}
+
+#bottombluebox {
+  height: 150px;
+    width:95%;
+  margin-left: 15px;
+  background-color: #4a90e2;
+}
+
+.bottomredbox1 {
+  width: 40px;
+  height: 150px;
+  background-color: #d0021b;
+  margin: 0px;
+  float: right;
+}
+
+.bottomgraybox {
+  width: 200px;
+  height: 150px;
+  background-color: #4a4a4a;
+  margin: 0px;
+  float: right;
+}
+
+.bottomredbox2 {
+width: 40px;
+height: 150px;
+background-color: #d0021b;
+margin: 0px;
+float: right;
+}
